@@ -202,7 +202,7 @@ stock_data.describe()
 
 
 
-![png](output_7_1.png)
+![png](notebook/output_7_1.png)
 
 
 
@@ -291,7 +291,7 @@ benchmark_data.describe()
 
 
 
-![png](output_10_1.png)
+![png](notebook/output_10_1.png)
 
 
 
@@ -393,7 +393,7 @@ stock_returns.describe()
 
 
 
-![png](output_13_1.png)
+![png](notebook/output_13_1.png)
 
 
 
@@ -439,7 +439,7 @@ sp_returns.describe()
 
 
 
-![png](output_16_1.png)
+![png](notebook/output_16_1.png)
 
 
 
@@ -541,7 +541,7 @@ excess_returns.describe()
 
 
 
-![png](output_19_1.png)
+![png](notebook/output_19_1.png)
 
 
 
@@ -575,7 +575,7 @@ avg_excess_return.plot.bar(title='Mean of Return Difference')
 
 
 
-![png](output_22_1.png)
+![png](notebook/output_22_1.png)
 
 
 
@@ -609,7 +609,7 @@ sd_excess_return.plot.bar(title='Standard Deviation of the Return Difference')
 
 
 
-![png](output_25_1.png)
+![png](notebook/output_25_1.png)
 
 
 
@@ -647,7 +647,7 @@ annual_sharpe_ratio.plot.bar(title='Annualized Sharpe Ration: Stocks vs S&P 500'
 
 
 
-![png](output_28_1.png)
+![png](notebook/output_28_1.png)
 
 
 
